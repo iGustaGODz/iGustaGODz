@@ -10,7 +10,7 @@ Olá, me chamo **Gustavo**, sou de São Paulo, Brasil, estou me capacitando para
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando frontend com **Html | Css | JavaScript**;
+- 👨🏽‍💻 Estou estudando atoamente **Node.js**;
 - 🤔 Meus hobbies são jogos online e joga bola;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para igustagodz52@gmail.com para me encontrar.
